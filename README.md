@@ -46,23 +46,23 @@ Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consol
 
 #### Menu principal
 
-![img.png](img.png)
+![img.png](src/main/java/com/aluracursos/literalura/assets/img.png)
 
 Al buscar por titulo consultamos a la API, y si el titulo y el autor no existen, agregamos el autor a la BD y el titulo, y mostramos los datos de los libros encontrados por pantalla.
 
-![img_1.png](img_1.png)
+![img_1.png](src/main/java/com/aluracursos/literalura/assets/img_1.png)
 
 Tambien podemos listar los libros registrados directamente en la BD y mostrarlos de la misma manera.
 
 
 Otra funcion es listar los autores registrados con sus libros:
-![img_2.png](img_2.png)
+![img_2.png](src/main/java/com/aluracursos/literalura/assets/img_2.png)
 
 
 Si elegimos la opcion buscar autores vivos en un determinado año nos preguntara que año buscamos y nos mostrara la lista de los autores registrados en la BD:
-![img_3.png](img_3.png)
+![img_3.png](src/main/java/com/aluracursos/literalura/assets/img_3.png)
 
 
 Y en la opcion de idiomas podemos buscar los libros en el idioma de la lista:
-![img_4.png](img_4.png)
+![img_4.png](src/main/java/com/aluracursos/literalura/assets/img_4.png)
 
